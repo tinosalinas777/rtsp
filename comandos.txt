@@ -1,0 +1,6 @@
+rtmp://200.105.122.11:1935/live/stream
+rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
+rtsp://admin:soportecov817@192.168.0.31:554/streaming/channels/101
+rtsp://admin:soportecov817@192.168.0.31:554/streaming/channels/201
+rtsp://admin:soportecov817@192.168.0.31:554/streaming/channels/301
+rtsp://admin:soportecov817@192.168.0.31:554/streaming/channels/401
