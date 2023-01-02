@@ -4,3 +4,9 @@ rtsp://admin:soportecov817@192.168.0.31:554/streaming/channels/101
 rtsp://admin:soportecov817@192.168.0.31:554/streaming/channels/201
 rtsp://admin:soportecov817@192.168.0.31:554/streaming/channels/301
 rtsp://admin:soportecov817@192.168.0.31:554/streaming/channels/401
+rtsp://admin:soportecov817@192.168.0.31:554/streaming/channels/501
+rtsp://admin:soportecov817@192.168.0.31:554/streaming/channels/601
+rtsp://admin:soportecov817@192.168.0.31:554/streaming/channels/701
+
+
+

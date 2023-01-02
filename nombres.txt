@@ -1,0 +1,6 @@
+0- Pc dron				|	1- Medios canal 26
+2- Acceso a dependencia			|	3- Pasillo hacia of administrativa
+4- Rack canal 43			|	5- Sala COV
+6- Pasillo hacia acceso			|	7- Sala de racks
+8- Sala de racks (vista trasera)
+99- Volver al menu anterior
